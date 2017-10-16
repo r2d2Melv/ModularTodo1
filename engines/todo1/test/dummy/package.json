@@ -1,0 +1,9 @@
+{
+  "name": "dummy",
+  "private": true,
+  "dependencies": {}
+}
+// ModularTodo1/engines/todo1/app/assets/javascripts/todo1/application.js 
+//= require jquery 
+//= require jquery_ujs 
+//= require_tree .

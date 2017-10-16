@@ -1,0 +1,19 @@
+current directory: /home/am/PROYECTOS/ModularTodo1/vendor/bundle/gems/byebug-9.1.0/ext/byebug
+/home/am/.rvm/rubies/ruby-2.4.1/bin/ruby -r ./siteconf20171002-4073-1ycrdt1.rb extconf.rb
+creating Makefile
+
+current directory: /home/am/PROYECTOS/ModularTodo1/vendor/bundle/gems/byebug-9.1.0/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /home/am/PROYECTOS/ModularTodo1/vendor/bundle/gems/byebug-9.1.0/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.so
+
+current directory: /home/am/PROYECTOS/ModularTodo1/vendor/bundle/gems/byebug-9.1.0/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -m 0755 byebug.so ./.gem.20171002-4073-jaj98b/byebug
