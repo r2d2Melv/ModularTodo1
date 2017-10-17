@@ -27,4 +27,4 @@ a las instrucciones de Engine de Thibault faltó agregar dos gems
 gem 'therubyracer', platforms: :ruby
 gem 'railties' 
 Las cuales se instalaron y ya aceptó la instrucción de scaffold.
-Posiblemente hay que agregar estas dos gems a gemlist???
+Posiblemente hay que agregar estas dos gems a gemlist???# ModularTodo1
